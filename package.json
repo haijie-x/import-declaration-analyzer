@@ -1,0 +1,23 @@
+{
+  "name": "import-declaration-analyzer",
+  "version": "1.0.0",
+  "description": "an analyzer for import declaration",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haijie-x/import-declaration-analyzer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haijie-x/import-declaration-analyzer/issues"
+  },
+  "homepage": "https://github.com/haijie-x/import-declaration-analyzer#readme",
+  "dependencies": {
+    "glob": "^9.3.0",
+    "typescript": "^5.0.2"
+  }
+}
